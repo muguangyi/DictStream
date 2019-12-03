@@ -1,16 +1,25 @@
-﻿using System.Reflection;
+﻿/*
+ * This file is part of the TableStream package.
+ *
+ * (c) MuGuangyi <muguangyi@hotmail.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("GameBox.TableStream")]
+[assembly: AssemblyTitle("DictStream")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Giant")]
-[assembly: AssemblyProduct("GameBox.TableStream")]
-[assembly: AssemblyCopyright("Copyright © Giant 2018")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("DictStream")]
+[assembly: AssemblyCopyright("Copyright © MuGuangyi 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -34,4 +43,4 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: InternalsVisibleTo("GameBox.TableStream.Tests")]
+[assembly: InternalsVisibleTo("DictStream.Tests")]

@@ -1,1 +1,1 @@
-# table-stream
+# DictStream

@@ -4,5 +4,5 @@
 
 ## Install
 
-* Download the binary [release](https://github.com/muguangyi/DictStream/releases).
-* Uncompress to project.
+* Clone the binary [release](https://github.com/muguangyi/DictStream-release) project.
+* Copy to the target project.

@@ -1,5 +1,7 @@
 # DictStream
 
+![build](https://github.com/muguangyi/DictStream/workflows/build/badge.svg)
+
 > DictStream is an extension of C# Stream.
 
 ## Install
